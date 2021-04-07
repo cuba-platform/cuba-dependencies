@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-io</artifactId>
-			<version>9.2.22.v20170606</version>
+			<version>10.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jsoup</groupId>
