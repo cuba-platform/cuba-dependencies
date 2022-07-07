@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-server</artifactId>
-			<version>9.2.27.v20190403</version>
+			<version>10.0.10</version>
 		</dependency>
 		<dependency>
 			<groupId>org.atmosphere</groupId>
